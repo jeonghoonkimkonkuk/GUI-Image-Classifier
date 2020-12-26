@@ -1,6 +1,6 @@
 # GUI-Image-Classifier
 
-Classify image with different way and different features
+Classify image with various way and different features
 
 ![1](https://user-images.githubusercontent.com/40309508/103150804-f8e24680-47ba-11eb-8218-a6364135ec98.png)
 ![2](https://user-images.githubusercontent.com/40309508/103150806-fa137380-47ba-11eb-845c-ffb8b8bd7987.png)
